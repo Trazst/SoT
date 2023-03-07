@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 
+# https://github.com/Trazst/SoT
 # https://github.com/megadose/holehe
 # https://github.com/soxoj/maigret
 # https://github.com/megadose/ignorant
