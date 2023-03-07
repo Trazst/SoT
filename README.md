@@ -1,0 +1,2 @@
+# SoT
+Streamlit OSINT Tool
